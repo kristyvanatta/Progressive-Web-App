@@ -16,7 +16,7 @@ const initdb = async () =>
   });
 
 //export function to post to the database
-export const postDb = async (content) => {
+export const putDb = async (content) => {
   console.log('Post to the database');
 
   //create connection to the database and version we want to use

@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       // webpack plugin that generates html file and injects bundles
       new HtmlWebpackPlugin({
-        template: '.index.html',
+        template: './index.html',
         title:'JATE'
       }),
 
