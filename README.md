@@ -56,5 +56,5 @@ The following image shows the application's IndexedDB storage:
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
 ## Links
-[Heroku]https://afternoon-chamber-54020.herokuapp.com/)
+[Heroku](https://afternoon-chamber-54020.herokuapp.com/)
 [GitHub](https://github.com/kristyvanatta/Progressive-Web-App)
